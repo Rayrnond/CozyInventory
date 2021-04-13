@@ -1,0 +1,9 @@
+name: CozyInventory
+version: ${project.version}
+main: com.reflexian.cozyinventory.CozyInventory
+api-version: 1.16
+authors: [ Raymond ]
+commands:
+  keepinventory:
+    usage: /keepinventory
+    description: Toggles if you keep inventory on death.

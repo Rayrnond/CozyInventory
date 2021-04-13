@@ -1,0 +1,17 @@
+#
+#
+# Created by Raymond#0001 from DevRoom
+#
+#
+
+# Permission required to use the command /keepinventory
+permission: "cozyinventory.keep"
+
+# Message sent when they use /keepinventory but don't have permission (set above)
+no-permission: "&cYou do not have permission to use this command!"
+
+# Message sent when they toggle on Keep Inventory
+enabled: "&aYou have enabled Keep Inventory!"
+
+# Message sent when they toggle off Keep Inventory
+disabled: "&cYou have disabled Keep Inventory!"
